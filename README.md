@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/dejavu
+bye bye microsoft. please visit https://git.osuv.de/m/dejavu
